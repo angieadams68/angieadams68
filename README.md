@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angieadams68
 - 👀 I’m interested in hiking, fishing, crafting and traveling 
-- 🌱 I’m currently learning how to code so I can be a great SWE!
+- 🌱 I’m a Software Engineer.
 - 📫 How to reach me: AngieClrk21@gmail.com.  Linkedin: https://www.linkedin.com/in/aqsa-saleheen/
 
 <!---
